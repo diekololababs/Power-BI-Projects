@@ -18,4 +18,13 @@
 ![Product KPI Dashboard](https://user-images.githubusercontent.com/123111536/213874176-bb8cd340-dc2d-45ff-858f-b0c86e448257.jpg)
 
 
+-  **Customer Churn Analysis**
+  ```
+  - Demographic Dashboard
+```
+1[Demographics](https://user-images.githubusercontent.com/123111536/213874311-03d86f23-8402-42c3-a590-8eb74f0e12f5.jpg)
 
+```
+  - Services Dashboard
+```
+![Services](https://user-images.githubusercontent.com/123111536/213874387-9e96f995-43ed-4919-8067-4bac2dd9a294.jpg)
