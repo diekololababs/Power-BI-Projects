@@ -22,7 +22,7 @@
   ```
   - Demographic Dashboard
 ```
-1[Demographics](https://user-images.githubusercontent.com/123111536/213874311-03d86f23-8402-42c3-a590-8eb74f0e12f5.jpg)
+![Demographics](https://user-images.githubusercontent.com/123111536/213874311-03d86f23-8402-42c3-a590-8eb74f0e12f5.jpg)
 
 ```
   - Services Dashboard
