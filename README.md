@@ -29,15 +29,16 @@
 ```
 ![Services](https://user-images.githubusercontent.com/123111536/213874387-9e96f995-43ed-4919-8067-4bac2dd9a294.jpg)
 
--**AdventureWorks Sales Analysis**
+-  **AdventureWorks Sales Analysis**
 ```
  -Sales Overview
 ```
 ![Sales Analysis](https://user-images.githubusercontent.com/92978413/217363301-a33f6356-abde-4b2f-b193-9aaf50a0f1bb.jpg)
 
--**Weather Forecast Analysis Report**
+-  **Weather Forecast Analysis Report**
 ```
    -Weather Forecast Analysis Dashboard (Overview)
+```
 ![Weather Analysis Report Overview](https://user-images.githubusercontent.com/92978413/223085218-e74c16e6-6626-46a4-b6aa-3f138ad18381.PNG)
 
 ```
