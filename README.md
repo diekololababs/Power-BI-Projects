@@ -35,3 +35,17 @@
 ```
 ![Sales Analysis](https://user-images.githubusercontent.com/92978413/217363301-a33f6356-abde-4b2f-b193-9aaf50a0f1bb.jpg)
 
+-**Weather Forecast Analysis Report**
+```
+   -Weather Forecast Analysis Dashboard (Overview)
+![Weather Analysis Report Overview](https://user-images.githubusercontent.com/92978413/223085218-e74c16e6-6626-46a4-b6aa-3f138ad18381.PNG)
+
+```
+  -Temperature Analysis
+  ```
+![Temperature Analysis](https://user-images.githubusercontent.com/92978413/223086099-8f15145e-7e1c-4fcc-9b99-728ac3ddde6f.PNG)
+
+
+```
+  -Pressure Analysis
+  ![Pressure Analyis](https://user-images.githubusercontent.com/92978413/223086280-15fb880a-8073-406d-8c76-4d583ec10995.PNG)
